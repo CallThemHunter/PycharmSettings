@@ -1,0 +1,23 @@
+<application>
+  <component name="PyUserTypeRenderersSettings">
+    <RENDERER>
+      <option name="name" value="RSNode renderer" />
+      <option name="isEnabled" value="true" />
+      <option name="toType" value="src.rstartree.RSNode" />
+      <option name="typeCanonicalImportPath" value="" />
+      <option name="typeQualifiedName" value="" />
+      <option name="typeSourceFile" value="" />
+      <VALUE_RENDERER>
+        <option name="isDefault" value="true" />
+        <option name="expression" value="" />
+      </VALUE_RENDERER>
+      <CHILDREN_RENDERER>
+        <option name="isDefault" value="false" />
+        <option name="appendDefaultChildren" value="false" />
+        <CHILD>
+          <option name="expression" value="bounds" />
+        </CHILD>
+      </CHILDREN_RENDERER>
+    </RENDERER>
+  </component>
+</application>
