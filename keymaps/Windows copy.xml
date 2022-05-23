@@ -1,0 +1,55 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
+  <action id="CloseActiveTab" />
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="left" />
+  </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="right" />
+  </action>
+  <action id="TabList">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt h" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="x" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt x" />
+  </action>
+  <action id="ViewStatusBar">
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="down" />
+  </action>
+</keymap>
