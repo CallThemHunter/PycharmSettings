@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="src" />
-    <option name="defaultScopeName" value="src" />
-    <option name="SEARCH_SCOPE" value="src" />
+    <option name="customScope" value="Project 'SuperAutoPetsAI'" />
+    <option name="defaultScopeName" value="Project 'SuperAutoPetsAI'" />
+    <option name="SEARCH_SCOPE" value="Project 'SuperAutoPetsAI'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
