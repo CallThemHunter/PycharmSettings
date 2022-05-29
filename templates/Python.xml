@@ -1,8 +1,8 @@
 <templateSet group="Python">
-  <template name="test_anim" value="anim = $unit$()&#10;self.assertTrue(anim.hp == $hp$)&#10;self.assertTrue(anim.atk == $atk$)&#10;self.assertTrue(anim.id == anim.trigger($trigger$))" toReformat="false" toShortenFQNames="true">
+  <template name="test_anim" value="anim = $unit$()&#10;self.assertTrue(anim.atk == $atk$)&#10;self.assertTrue(anim.hp == $hp$)&#10;self.assertTrue(anim.id == anim.trigger($trigger$))" toReformat="false" toShortenFQNames="true">
     <variable name="unit" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="hp" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="atk" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="hp" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="trigger" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
